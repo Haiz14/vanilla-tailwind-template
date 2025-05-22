@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+    /* Custom Colors */
+    --color-raisin-100: #070607;
+    --color-raisin-200: #0e0c0e;
+    --color-raisin-300: #151216;
+    --color-raisin-400: #1c181d;
+    --color-raisin-500: #221d23;
+    --color-raisin-600: #524754;
+    --color-raisin-700: #816f85;
+    --color-raisin-800: #ac9eae;
+    --color-raisin-900: #d5cfd7;
+    --color-raisin-DEFAULT: #221d23;
+
+    --color-cafe-100: #100b07;
+    --color-cafe-200: #20170f;
+    --color-cafe-300: #302216;
+    --color-cafe-400: #402e1e;
+    --color-cafe-500: #4f3824;
+    --color-cafe-600: #86603e;
+    --color-cafe-700: #b5865e;
+    --color-cafe-800: #ceaf93;
+    --color-cafe-900: #e6d7c9;
+    --color-cafe-DEFAULT: #4f3824;
+
+    --color-cinnabar-100: #2c120a;
+    --color-cinnabar-200: #582415;
+    --color-cinnabar-300: #83361f;
+    --color-cinnabar-400: #af4829;
+    --color-cinnabar-500: #d1603d;
+    --color-cinnabar-600: #db7f64;
+    --color-cinnabar-700: #e49f8b;
+    --color-cinnabar-800: #edbfb1;
+    --color-cinnabar-900: #f6dfd8;
+    --color-cinnabar-DEFAULT: #d1603d;
+
+    --color-gold-100: #35290c;
+    --color-gold-200: #6a5218;
+    --color-gold-300: #a07b24;
+    --color-gold-400: #d1a234;
+    --color-gold-500: #ddb967;
+    --color-gold-600: #e4c887;
+    --color-gold-700: #ebd6a5;
+    --color-gold-800: #f1e4c3;
+    --color-gold-900: #f8f1e1;
+    --color-gold-DEFAULT: #ddb967;
+
+    --color-mindaro-100: #313a0d;
+    --color-mindaro-200: #637319;
+    --color-mindaro-300: #94ad26;
+    --color-mindaro-400: #bbd644;
+    --color-mindaro-500: #d0e37f;
+    --color-mindaro-600: #d9e897;
+    --color-mindaro-700: #e3eeb1;
+    --color-mindaro-800: #ecf4cb;
+    --color-mindaro-900: #f6f9e5;
+    --color-mindaro-DEFAULT: #d0e37f;
+
+    /* Custom Font Family */
+    --font-sans: '"Courier New"', monospace;
+}
+
